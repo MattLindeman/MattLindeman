@@ -2,7 +2,7 @@
 
 I'm Matt, and I currently work for the BYU Basketball team helping with data analytics, film study, and strategy. I often work on projects creating predictive models and generating reports for the coaching staff. I have a bachelor's degree in statistics, emphasizing in data science. Through my schooling I've gained skills in R programming, Python, SQL, data visualization, predictive models, and machine learning. I am passionate about sports and statistics, and I'm always striving to improve my data science and analytics capabilities. 
 
-On this page I've included a few of the basketball projects I've worked on, as well as other work, to demonstrate my abilities in coding and analytics. I hope you enjoy exploring my projects as much as I do! Feel free to reach out to me with any questions or feedback about my projects. Thanks!
+On this page I've included a few of the basketball projects I've worked on, as well as other work, to demonstrate my abilities in coding and analytics. I hope you enjoy exploring my projects! Feel free to reach out to me with any questions or feedback about my projects. Thanks!
 
 <!--
 **MattLindeman/MattLindeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
